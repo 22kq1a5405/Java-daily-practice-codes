@@ -33,7 +33,7 @@ Hello! I'm Ramya, and this repository is dedicated to my **30 Days Coding Challe
 
 - 💼 [My GitHub](https://github.com/22kq1a5405)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ramya-bolla-a3837a2b1/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📫 Email: your.email@example.com
+- 📫 Email:ramyabolla6789@gmail.com
 
 ---
 
