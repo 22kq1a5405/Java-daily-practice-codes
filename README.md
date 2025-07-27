@@ -15,7 +15,7 @@ Hello! I'm Ramya, and this repository is dedicated to my **30 Days Coding Challe
 ## 🎯 Goal
 
 - ✅ Code **every single day** for 30 days
-- ✅ Focus on **Java, SQL, DSA, and Spring Boot**
+- ✅ Focus on **Java concepts like numbers,strings,arrays,lists**
 - ✅ Practice small programs, string challenges, and real problems
 - ✅ Stay consistent — even if it's just 1 file a day
 - ✅ Document everything in this repository 📂
